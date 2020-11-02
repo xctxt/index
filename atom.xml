@@ -1,19 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://github.com/xctxt/index</id>
+    <id>https://xctxt.github.io/index/</id>
     <title>龍洋复古</title>
-    <updated>2020-11-02T14:00:26.566Z</updated>
+    <updated>2020-11-02T14:44:23.328Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
-    <link rel="alternate" href="https://github.com/xctxt/index"/>
-    <link rel="self" href="https://github.com/xctxt/index/atom.xml"/>
+    <link rel="alternate" href="https://xctxt.github.io/index/"/>
+    <link rel="self" href="https://xctxt.github.io/index/atom.xml"/>
     <subtitle>龍洋复古</subtitle>
-    <logo>https://github.com/xctxt/index/images/avatar.png</logo>
-    <icon>https://github.com/xctxt/index/favicon.ico</icon>
+    <logo>https://xctxt.github.io/index/images/avatar.png</logo>
+    <icon>https://xctxt.github.io/index/favicon.ico</icon>
     <rights>All rights reserved 2020, 龍洋复古</rights>
     <entry>
         <title type="html"><![CDATA[龍洋复古公告]]></title>
-        <id>https://github.com/xctxt/index/post/hello/</id>
-        <link href="https://github.com/xctxt/index/post/hello/">
+        <id>https://xctxt.github.io/index/post/hello/</id>
+        <link href="https://xctxt.github.io/index/post/hello/">
         </link>
         <updated>2020-11-01T14:28:02.000Z</updated>
         <content type="html"><![CDATA[<p>从【龍洋传奇】正式运营到现在，经历了许许多多的事情。我们感受过人情冷暖、同行竞争，感受过被诋毁、陷害甚至被咒骂；但同时我们更也感受到无论深陷何种深渊也死死抓住你双手的玩家兄弟们的羁绊！</p>
